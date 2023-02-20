@@ -1,0 +1,5 @@
+**/bin
+**/obj
+.vs/
+*.keystore
+*.csproj.user
